@@ -1,4 +1,4 @@
-# A Simple Guide to Downloading Godot Software and Running the Game!
+<img width="511" alt="image" src="https://github.com/ilyaka2/BT-in-video-games/assets/75428951/4d4d43cf-e579-4f39-94d4-9750530e4ed2"># A Simple Guide to Downloading Godot Software and Running the Game!
 
 **Step 1:**
 
@@ -12,7 +12,8 @@ Download the repository and extract all the files, create empty folder and **ext
 **Step 3:**
 
 Open the software, click on Import and locate the folder from step 2, then the software will recognize one file, open it.
-![image](https://github.com/ilyaka2/FSM-in-video-games/assets/75428951/6b460701-8033-4032-8225-36dae95b3955)
+<img width="511" alt="Screenshot 2024-05-13 110928" src="https://github.com/ilyaka2/BT-in-video-games/assets/75428951/5c60fcc5-814f-43d0-b594-a2a6f570449d">
+
 
 **step 4:**
 
