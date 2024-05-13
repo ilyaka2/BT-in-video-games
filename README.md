@@ -1,4 +1,4 @@
-<img width="511" alt="image" src="https://github.com/ilyaka2/BT-in-video-games/assets/75428951/4d4d43cf-e579-4f39-94d4-9750530e4ed2"># A Simple Guide to Downloading Godot Software and Running the Game!
+# A Simple Guide to Downloading Godot Software and Running the Game!
 
 **Step 1:**
 
