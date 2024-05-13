@@ -2,7 +2,7 @@
 
 **Step 1:**
 
-Head over to the official Godot Engine website at [ godotengine.org](https://godotengine.org./). Downlaod the latest version,
+Head over to the official Godot Engine website at [ godotengine.org](https://godotengine.org./). Downlaod the 3.5.3 version,
 Extract the 2 files, and open the software.
 
 **Step 2:**
